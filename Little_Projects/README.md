@@ -29,6 +29,10 @@
 
 `eval_expr.py`(2019): Este proyecto implementa un evaluador de expresiones matemáticas que puede manejar operaciones aritméticas básicas como suma, resta, multiplicación y división, así como expresiones anidadas con paréntesis. El objetivo es proporcionar una función que tome una cadena de texto representando una expresión matemática y devuelva el resultado de su evaluación, manejando correctamente los operadores y la precedencia de las operaciones.
 
+### Generador del Triángulo de Pascal
+
+`triangulo_pascal.py`(2018): Este proyecto implementa un generador del Triángulo de Pascal en Python. El programa define funciones para calcular los coeficientes binomiales y generar cada fila del triángulo. El objetivo es imprimir el Triángulo de Pascal hasta la fila n especificada por el usuario, mostrando las propiedades combinatorias y simétricas del triángulo.
+
 
 
 ## Cálculo / Comprobación de principios y estrategias probabilísticas

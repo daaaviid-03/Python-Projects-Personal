@@ -12,11 +12,17 @@
 
 ## Solucionadores de juegos
 
+### Solucionador de Wordle
+
+`Wordle_solver`(2022): Este proyecto implementa un solucionador para el popular juego de Wordle en Python. El programa lee un diccionario de palabras y, basándose en las entradas del usuario sobre las letras y sus posiciones correctas, sugiere posibles palabras que podrían ser la solución. El objetivo es ayudar al usuario a encontrar la palabra correcta de la manera más eficiente posible, utilizando un sistema de colores para indicar las letras correctas, incorrectas y en posiciones incorrectas.
+
 ### Solucionador Automático del Ahorcado
 
 `Hangman_solver`(2019): Este proyecto implementa una aplicación gráfica en Python utilizando Tkinter para resolver el juego del ahorcado (Hangman). El programa permite al usuario introducir las letras conocidas y las letras incorrectas, y sugiere la siguiente letra óptima para adivinar, basándose en un diccionario de palabras en español o inglés. El objetivo es ayudar al usuario a completar la palabra oculta de la manera más eficiente posible.
 
+### Juego de Tic-Tac-Toe (Tres en Raya) con "IA".
 
+`TicTacToe`(2018): Este proyecto implementa un juego de Tic-Tac-Toe (Tres en Raya) en Python, donde el usuario juega contra una inteligencia artificial básica. El programa permite al usuario introducir su movimiento y luego la IA realiza su jugada automáticamente. El objetivo es proporcionar una experiencia de juego interactiva y desafiante, donde la IA intenta bloquear los movimientos del jugador y ganar el juego si es posible.
 
 
 
