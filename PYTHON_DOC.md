@@ -17,9 +17,10 @@
 > \# Resolver la ecuación f = 0 para obtener la expresión analítica
 >
 > sol = sp.solve(f, y)
-
-# Imprimir la expresión analítica
-print(sol)
+>
+> \# Imprimir la expresión analítica
+>
+> print(sol)
 
 
 
@@ -37,6 +38,7 @@ print(sol)
 ### Librerías principales para instalación
 
 \>\>\> `pip install selenium numpy tensorflow gtts SpeechRecognition playsound pandas matplotlib sympy pyautogui networkx graphviz Pillow pywhatkit pip-review`
+
 \>\>\> `pip-review --local --interactive`
 
 
